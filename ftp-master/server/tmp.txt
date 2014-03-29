@@ -1,0 +1,6 @@
+-rwxr-xr-x 1 geekgoutham geekgoutham 42089 Mar 28 19:47 ftserve
+-rw-r--r-- 1 geekgoutham geekgoutham  6563 Jan  2 19:01 ftserve.c
+-rw-r--r-- 1 geekgoutham geekgoutham  1368 Jan  2 19:01 ftserve.h
+-rw-r--r-- 1 geekgoutham geekgoutham 43416 Mar 28 19:47 ftserve.o
+-rw-r--r-- 1 geekgoutham geekgoutham   288 Jan  2 19:01 makefile
+-rw-r--r-- 1 geekgoutham geekgoutham     0 Mar 28 19:54 tmp.txt
